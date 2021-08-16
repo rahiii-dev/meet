@@ -1,0 +1,7 @@
+<svg id="Component_14_1" data-name="Component 14 – 1" xmlns="http://www.w3.org/2000/svg" width="42" height="43" viewBox="0 0 42 43">
+  <g id="Ellipse_3" data-name="Ellipse 3" fill="#f3f3f3" stroke="#a99898" stroke-width="1">
+    <ellipse cx="21" cy="21.5" rx="21" ry="21.5" stroke="none"/>
+    <ellipse cx="21" cy="21.5" rx="20.5" ry="21" fill="none"/>
+  </g>
+  <text id="_2" data-name="2" transform="translate(21 29)" fill="#a99898" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-6.118" y="0">2</tspan></text>
+</svg>
